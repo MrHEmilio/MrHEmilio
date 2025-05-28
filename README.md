@@ -2,7 +2,7 @@
 <h3 align="center">Científico de Datos Jr. | Java Developer | Ingeniero con visión de negocio</h3>
 
 <p align="center">
-  <img src="https://ibb.co/gb00C2yj" alt="Banner" width="100%"/>
+  <img src="[https://ibb.co/gb00C2yj](https://media.licdn.com/dms/image/v2/D4E16AQEYTzLK9QdrcQ/profile-displaybackgroundimage-shrink_350_1400/B4EZcV9ZkMHQAY-/0/1748420107362?e=1753920000&v=beta&t=6sf_hJNDG2_q-po2sClKBrw-XNNNYTgjMYTFLVzoIs8)" alt="Banner" width="100%"/>
 </p>
 
 ---
