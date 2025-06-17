@@ -1,4 +1,4 @@
-<h2 align="center">Hola 👋! Soy Emilio de la Ciudad de México 🇲🇽</h2>
+<h2 align="center">Hola 👋! Soy Emilio de la Ciudad de México</h2>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQFU3KGo8gcBOg/profile-displaybackgroundimage-shrink_200_800/B4EZd.2UktHcAU-/0/1750179859480?e=2147483647&v=beta&t=QWwj5PfCKykdLe8eoh4yZwwkroZaRjBTEx1QGzFvzJk" alt="Banner" width="100%"/>
@@ -15,11 +15,13 @@ También soy un **Java Developer sólido**, combinando pensamiento estructurado 
 
 🎯 Actualmente me interesa aplicar Ciencia de Datos en **fintechs** y **consultoras** donde el análisis crítico impulse decisiones de alto impacto.
 
+<p align="center">
+  <img height="175" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJ5YnR2c2VpdWplNXkwa3IzZjhlNWgybDRqdGVuejNjY2c5bHEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LhLY1smA5OHk8Let3L/giphy.gif" alt="GIF programando" />
+</p>
+
 ---
 
 ### 🧰 Tecnologías que uso
-
-<img align="left" height="175" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJ5YnR2c2VpdWplNXkwa3IzZjhlNWgybDRqdGVuejNjY2c5bHEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LhLY1smA5OHk8Let3L/giphy.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -92,6 +94,10 @@ Este proyecto consiste en el desarrollo de una aplicación web sencilla utilizan
 </div>
 
 ---
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/MrHEmilio/MrHEmilio/output/snake.svg" alt="Snake animation" />
+
+###
