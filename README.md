@@ -93,7 +93,6 @@ Este proyecto consiste en el desarrollo de una aplicación web sencilla utilizan
   </a>
 </div>
 
----
 ###
 
 <picture>
